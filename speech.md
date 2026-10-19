@@ -1,6 +1,6 @@
 ## Intro
 
-* AGD: "Raise your hand if you've ever lost hours of work. A crashed laptop, a file you overwrote, or some project where the files all had the same name."
+* AGD: "Knock knock. Who's there? Lost work."
   * The undo button couldn't help since it only remembers the last few minutes of your work.
 * I have seen this often as a Computer Science major when we working on project without a version management tool.
 * Git allows anyone to safely experiment, colloborate, and undo history by saving a complete history of everyone's work.
