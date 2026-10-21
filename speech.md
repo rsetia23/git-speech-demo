@@ -23,3 +23,5 @@ Transition: Saving your work protects you from your own mistakes. But what happe
 * Nobody overwrites anyone
 * Scale: Microsoft moved windows to Git, about 3.5k engineers on 3.5 million files.
 * Cite: "According to a 2017 post on Microsoft's dev blog"
+
+Transition: So git protects you and your team's work. The last reason is about you and your career.
