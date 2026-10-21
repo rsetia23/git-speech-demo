@@ -14,6 +14,7 @@
 * Risky change = making a branch so you don't affect the main version of the work.
 * Idea fails? Drop it Idea works? Merge it with the main work.
 
+Transition: Saving your work protects you from your own mistakes. But what happens when others are working on the same project?
 ## Slide 3: Work Together
 
 * Group project chaos: emailed files, old copies, similarly named files
