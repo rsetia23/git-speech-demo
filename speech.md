@@ -6,3 +6,10 @@
 * Git allows anyone to safely experiment, colloborate, and undo history by saving a complete history of everyone's work.
 * Think about it like a video game where you have a checkpoint, and Git allows you make these for your work.
 * I will cover how Git allows you to maintain history, safe experimentation, and collaboration.
+
+## Slide 2: Never Lose Work
+
+* Commit is a save point, and Git keeps all of them forever.
+* Go back to any version of your work.
+* Risky change = making a branch so you don't affect the main version of the work.
+* Idea fails? Drop it Idea works? Merge it with the main work.
