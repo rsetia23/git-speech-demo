@@ -15,3 +15,11 @@
 * Idea fails? Drop it Idea works? Merge it with the main work.
 
 Transition: Saving your work protects you from your own mistakes. But what happens when others are working on the same project?
+## Slide 3: Work Together
+
+* Group project chaos: emailed files, old copies, similarly named files
+* With Git, everyone works at the same time on their own copy
+* We can use pull requests to make sure changes are reviewed before combining them
+* Nobody overwrites anyone
+* Scale: Microsoft moved windows to Git, about 3.5k engineers on 3.5 million files.
+* Cite: "According to a 2017 post on Microsoft's dev blog"
