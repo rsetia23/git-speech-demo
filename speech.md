@@ -16,7 +16,6 @@
 
 Transition: Saving your work protects you from your own mistakes. But what happens when others are working on the same project?
 
-Transition: Saving your work protects you from your own mistakes. But what happens when others are working on the same project?
 ## Slide 3: Work Together
 
 - Group project chaos: emailed files, old copies, similarly named files
