@@ -27,3 +27,16 @@ Transition: Saving your work protects you from your own mistakes. But what happe
 - [devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet](https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/)
 
 Transition: So git protects you and your team's work. The last reason is about you and your career.
+
+## Slide 4: Build Your Future
+
+- Industry standard: almost 97% of professional developers use Git
+  - Cite: "According to Stack Overflow's 2022 Developer Survey"
+- 180M+ developers use GitHub, the most popular home for Git projects
+  - Cite: "GitHub's 2025 Octoverse report found"
+- Not just programmers: data analysts, designers, researchers
+- Free to start: Git is $0, GitHub Free is $0, plus Student Developer Pack extras
+  - Cite: "According to GitHub's pricing page"
+- Your GitHub becomes a portfolio: show employers, don't just tell them
+
+Transition: Now that you know what Git can do for you, let me show you how big it really is.
