@@ -40,3 +40,22 @@ Transition: So git protects you and your team's work. The last reason is about y
 - Your GitHub becomes a portfolio: show employers, don't just tell them
 
 Transition: Now that you know what Git can do for you, let me show you how big it really is.
+
+## Slide 5: 630,000,000
+
+- Ask: "Can anyone guess what this number means?"
+- 630 million projects on GitHub
+- 121 million created last year, about 230 every minute
+    - Cite: "That's from GitHub's 2025 Octoverse report"
+- Every one is protected by the same save points I just showed you
+
+## Slide 6: Recap
+
+- Recap: never lose work, work together, build your future
+- Callback: that lost work would have been a reload, not a disaster
+- Challenge: make a free GitHub account this week and save one project
+- Closing line: "Your future self will thank you."
+
+## Slide 7: Thanks!
+
+- "Thank you! I'm happy to take any questions."
